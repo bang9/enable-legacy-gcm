@@ -1,4 +1,14 @@
-# enable-legacy-gcm
+# create firebase project, open settings
+
+0. Open https://console.firebase.google.com/u/0/
+1. Create firebase project and enter to project console
+2. Open project settings > Cloud messaging
+<img width="363" alt="스크린샷 2022-05-27 오후 3 49 18" src="https://user-images.githubusercontent.com/26326015/170646429-f442240c-2e84-43ad-8769-da435790e516.png">
+
+---
+
+
+# enable legacy gcm
 
 ## Step1 - Open Google Cloud Console
 <img width="1135" alt="image" src="https://user-images.githubusercontent.com/26326015/170133728-4592c8ef-d6cc-4f1f-a08d-afcd63532a42.png">
